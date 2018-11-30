@@ -9,3 +9,5 @@ if age >= 21 {
 } else {
     print("Vous êtes mineur.")
 }
+
+// End of program
